@@ -1,2 +1,2 @@
 # powerpoop
-<script>window.location="PowerPoop.mhtml";</script>
+<script>window.location="PowerPoop.html";</script>
